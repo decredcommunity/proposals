@@ -13,7 +13,6 @@ Last updated: 2021-08-12
 
 proposal|USD limit|approved|start|end|note
 ---|--:|---|---|---|---
-[Decred Address Scanner](https://proposals.decred.org/proposals/3943bff)|$9,000|2020-11-24|2020-11-24|2021-03-24|start assumed as approval date; end is (start + 4 mo)
 [Decred Arabia Communications and Content Creation](https://proposals.decred.org/proposals/d0c32d5)|$6,200|2021-02-09|2021-01-01|2021-06-30|"till June 2021 or until the funds run out"
 [PR by Monde Public Relations - Phase Two](https://proposals.decred.org/proposals/c81926b)|$42,000|2020-07-30|2020-08-01|2021-07-31|
 [Video Content Production for Decred Phase 3](https://proposals.decred.org/proposals/95a1409)|$19,200|2021-04-14|2021-04-01|2021-09-30|
@@ -42,6 +41,7 @@ proposal|USD limit|approved|start|end|note
 [Design domain budgets: 08.20 - 02.21](https://proposals.decred.org/proposals/1dc1571)|$65,000|2020-08-27|2020-08-01|2021-02-28|
 [Grassroots Marketing - growing the Decred community (withDecred.org)](https://proposals.decred.org/proposals/2bf72e6)|$6,485|2020-10-07|2020-10-07|2021-03-06|start assumed as approval date; end is (start + 5 mo) but not fixed; @pavel confirmed it is closed now
 [Video Content Production for Decred Phase 2](https://proposals.decred.org/proposals/1e55a41)|$16,200|2020-09-22|2020-09-22|2021-03-21|"starting immediately and ending in 6 months' time"
+[Decred Address Scanner](https://proposals.decred.org/proposals/3943bff)|$9,000|2020-11-24|2020-11-24|2021-03-24|start assumed as approval date; end is (start + 4 mo); @JoeGruff confirmed it is closed now
 [Decred Content and Asset Translation Proposal](https://proposals.decred.org/proposals/c093b8a)|$33,000|2020-11-03|2020-09-01|2021-04-30|
 [Mobile Wallets 2020-2021](https://proposals.decred.org/proposals/bc499c9)|$44,000|2020-11-24|2020-09-01|2021-04-30|
 [GoDCR: GoLang Native Desktop Wallet](https://proposals.decred.org/proposals/e5c8051)|$60,000|2020-11-24|2020-09-01|2021-04-30|
