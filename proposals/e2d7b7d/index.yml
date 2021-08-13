@@ -1,0 +1,43 @@
+id: e2d7b7d6b837431f
+title: Automatic Ticket Revocations Consensus Change
+author: rstaudt2
+published_utc: 2021-07-06 11:53:48
+links:
+  - url: https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$up59NNBxDnONtGDYS7vJ1gArMHqPJVY5ug00s-AixCs
+    published_utc: 2021-07-06 11:54:53
+    notes: |
+      proposal published, #proposals chat
+
+  - url: https://www.reddit.com/r/decred/comments/okyckw/vote_on_automatic_revoked_tickets/
+    published_utc: 2021-07-15 18:05:32
+    author: Kandiru
+    quote:
+      - If this passes, all the people who have locked funds they cannot access due to losing their redeem script will have access to their funds again!
+      - the change also mean tickets which expire will be available 1 block earlier
+
+  - url: https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$XOEZTr9zlmAMA7kpLZdLaBpuOj11kU7b9lrQ5V0Sbs8
+    published_utc: 2021-07-15 19:32:54
+    notes: |
+      #proposals chat
+
+  - url: https://blockcommons.red/politeia-digest/issue044/
+    published_utc: 2021-07-19 09:10:00
+    notes: recap of the proposal and comments in Politeia Digest 44
+
+  - url: https://twitter.com/lukebp_/status/1418216538193203200
+    published_utc: 2021-07-22 14:29:06
+    author: lukebp_
+    quote: This proposal is an important milestone for the project for reasons that may not be obvious.
+
+  - url: https://www.reddit.com/r/decred/comments/ot8x7o/decred_memelord_13_part_tweet_thread_113_decreds/h6w1vnk/
+    published_utc: 2021-07-28 23:04:19
+    author: Kandiru
+    quote: |
+      After the auto revoke is implemented it will drastically simplify ticket splitting, as well as removing the possibility of the "fee drain" attack.
+
+      A lot of the faff was making sure any of the participants could revoke the ticket if it was missed, to avoid locking up their coins forever.
+
+  - url: https://matrix.to/#/!vcpSPcMFGlJRGoyCgh:decred.org/$51VLsYmobxEFN1NQ4z71L3NgnOU83qiL-hx_o5gNgn4
+    published_utc: 2021-08-10 00:39:36
+    author: matheusd
+    quote: It doesn't "solve" the fee drain attack because purchasing the ticket itself costs atoms (so purchasing a ticket that will never vote is a net loss every time). But it does make it strictly safer to perform the splits, since it guarantees you'll never lose access to your funds.
