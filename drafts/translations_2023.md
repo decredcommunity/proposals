@@ -1,3 +1,14 @@
+```
+Title: Decred Content and Asset Translations 2023 
+Domain: marketing
+Amount: $33,000
+Start Date: 2023-01-01
+End Date: 2023-12-31
+```
+
+{ ^ TODO: PUT THESE VALUES INTO THEIR CORRESPONDING FIELDS, DON'T PASTE IT INTO PROPOSAL BODY }
+
+
 ## What
 
 This proposal seeks to continue the translation of Decred-related content, software, and assets in 2023.
