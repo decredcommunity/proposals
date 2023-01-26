@@ -1,5 +1,7 @@
 ## What
 
+This proposal seeks to continue the translation of Decred-related content, software, and assets in 2023.
+
 This proposal is a summary of the third [Decred Content and Asset Translation Proposal (Phase 3)](https://proposals.decred.org/record/7057e0b) that was submitted in late May 2022 and expired at the end of the same year. It is also a formal submission to continue the translation initiative for Decred-related content and assets. If you are unfamiliar with the problems the abovementioned proposal aimed to propose solutions for, we encourage giving the [original proposal](https://proposals-archive.decred.org/proposals/c093b8a), as well as [its summary and resubmission](https://proposals.decred.org/record/af9942a) a read, because as a continuation of this initiative the core goals remain the same even if our application of work effort changes slightly from phase to phase and continues to evolve in order to respond to feedback and react to new challenges better.
 
 
