@@ -25,11 +25,11 @@ Once again, though I think it is important to keep the non-English speaking comm
 
 The proposal asks for a discretionary budget for translation in a few recognised areas, such as:
 
-- the [Decred Journal](https://xaur.github.io/decred-news/) (continuous)
-- website translation (as required)
-- software localisation (Decrediton, DCRDEX, mobile wallets, etc., at the contributor's discretion)
-- video assets translation (at the contributor's discretion)
-- articles/content translation (at the contributor's discretion)
+- The [Decred Journal](https://xaur.github.io/decred-news/) (continuous)
+- Website translation (as required)
+- Software localisation (Decrediton, DCRDEX, mobile wallets, etc., at the contributor's discretion)
+- Video assets translation (at the contributor's discretion)
+- Articles/content translation (at the contributor's discretion)
 
 Even though the output is not likely to be consistent in all areas due to their nature, we still stick by the original areas that were identified at the very beginning and would like to include them in this phase of the proposal. The reason for this is that, if approved, the proposal and its budget will account for the whole of 2023, and with content being produced by other approved proposals we would like to keep as many options open to bring it to new audiences.
 
