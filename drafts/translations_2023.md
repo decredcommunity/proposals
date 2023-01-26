@@ -9,7 +9,9 @@ This proposal is a summary of the third [Decred Content and Asset Translation Pr
 
 Once again, we are delighted to inform that of the **$20,000** requested for the budget of phase 3 of the proposal the contractors who took part in bringing it to fruition made use of **$11,355.33**, bringing the spending significantly under budget for the **third** time.
 
-The majority of the budget spend went towards continuous translation of the Decred Journal, updates to the website, updating existing translations of the DCRDEX and Dcrediton, as well as introducing new ones, like Greek and German. The output of translated articles and videos was very low, mostly due to the fact that during the course of one of the earlier proposals it had been decided that, at that time, with the video content being produced, its translation was not producing good value for money and as such was halted.
+The majority of the budget spend went towards continuous translation of the [Decred Journal](https://xaur.github.io/decred-news/), updates to the [decred.org website](https://decred.org/), updating existing translations of the DCRDEX and Decrediton, as well as introducing new ones, like Greek and German.
+
+The output of translated articles and videos was very low, mostly due to the fact that during the course of one of the earlier proposals it had been decided that, at that time, with the video content being produced, its translation was not producing good value for money and as such was halted.
 
 Our invaluable *project chronicler*, **bee**, has been keeping a meticulous record of the translation effort in our [**translation index**](https://github.com/decredcommunity/translations/blob/master/index.md). Though not ideal at tracking either software or video translations, it does give the reader a very good idea of how much work has been done. Please keep in mind, however, that it is a **general** translation index, whose scope is much greater than only listing the output for this proposal. For this reason, please be mindful of the dates when each translation piece was submitted, as only the ones between May 2022 - Dec 2022 fall under the purview and funding of the [Decred Content and Asset Translation Proposal (Phase 3)](https://proposals.decred.org/record/7057e0b).
 
@@ -26,7 +28,7 @@ Once again, though I think it is important to keep the non-English speaking comm
 The proposal asks for a **discretionary budget** for translation in a few recognised areas, such as:
 
 - The [Decred Journal](https://xaur.github.io/decred-news/) (continuous)
-- Website translation (as required)
+- [decred.org](https://decred.org/) website translation (as required)
 - Software localisation (Decrediton, DCRDEX, mobile wallets, etc., at the contributor's discretion)
 - Video assets translation (at the contributor's discretion)
 - Articles/content translation (at the contributor's discretion)
