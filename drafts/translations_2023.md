@@ -23,7 +23,7 @@ Once again, though I think it is important to keep the non-English speaking comm
 
 ## How
 
-The proposal asks for a discretionary budget for translation in a few recognised areas, such as:
+The proposal asks for a **discretionary budget** for translation in a few recognised areas, such as:
 
 - The [Decred Journal](https://xaur.github.io/decred-news/) (continuous)
 - Website translation (as required)
