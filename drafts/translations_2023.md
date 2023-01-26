@@ -18,11 +18,11 @@ This proposal is a summary of the third [Decred Content and Asset Translation Pr
 
 ## Summary of phase 3
 
-Once again, we are delighted to inform that of the **$20,000** requested for the budget of phase 3 of the proposal the contractors who took part in bringing it to fruition made use of **$11,355.33**, bringing the spending significantly under budget for the **third** time.
+We are very happy to report that of the **$20,000** requested for the budget of phase 3 of the proposal the contractors who took part in bringing it to fruition made use of **$11,355.33**, bringing the spending significantly under the maximum budget.
 
 The majority of the budget spend went towards continuous translation of the [Decred Journal](https://xaur.github.io/decred-news/), updates to the [decred.org website](https://decred.org/), updating existing translations of the DCRDEX and Decrediton, as well as introducing new ones, like Greek and German.
 
-The output of translated articles and videos was very low, mostly due to the fact that during the course of one of the earlier proposals it had been decided that, at that time, with the video content being produced, its translation was not producing good value for money and as such was halted.
+Output in other areas, such as articles and video content translation remained low, mostly due to the fact that during the course of one of the earlier proposals it had been decided that, at that time, with the video content being produced, its translation was not producing good value for money and as such was halted.
 
 Our invaluable *project chronicler*, **bee**, has been keeping a meticulous record of the translation effort in our [**translation index**](https://github.com/decredcommunity/translations/blob/master/index.md), which covers all known articles and most video translations. Additionally a [**software translation status**](https://github.com/decredcommunity/translations/blob/master/status.md) page has been made to see which ones are up to date or where help is needed. Though not perfect, it does give the reader a very good idea of how much work has been done. Please keep in mind, however, that these pages track **all translations**, including those not funded by the treasury. For this reason, please be mindful of the dates when each translation piece was submitted, as only the ones between May 2022 - Dec 2022 fall under the purview and funding of the [Decred Content and Asset Translation Proposal (Phase 3)](https://proposals.decred.org/record/7057e0b).
 
@@ -46,7 +46,7 @@ The proposal asks for a **discretionary budget** for translation in a few recogn
 - Video assets translation (at the contributor's discretion)
 - Articles/content translation (at the contributor's discretion)
 
-Even though the output is not likely to be consistent in all areas due to their nature, we still stick by the original areas that were identified at the very beginning and would like to include them in this phase of the proposal. The reason for this is that, if approved, the proposal and its budget will account for the whole of 2023, and with content being produced by other approved proposals we would like to keep as many options open to bring it to new audiences.
+Even though the output is not likely to be consistent in all areas due to their nature, we still stick by the original areas that were identified at the very beginning and would like to include them in this phase of the proposal. The reason for this is that, if approved, the proposal and its budget will account for the whole of 2023, and with content being produced by other approved proposals we would like to keep as many options open to bring it to new audiences. Additionally, it needs to be clarified that despite phrasing the source material selection as "at the contributor's discretion", the proposal author reserves the right to withhold approval of deploying resources for a particular translation should it fall too far outside the scope of benefitting the Decred ecosystem or incur an unnecessary expense due to work churn.
 
 
 ## Who
@@ -65,10 +65,8 @@ The proposal would cover translation efforts the year 2023, to be evaluated and 
 
 ## Budget
 
-Based on past billing history we propose that the proposal be allocated a budget of **USD 33,000** for its duration to provide a comfortable buffer against overspending despite a history of staying under budget to date.
+Based on past billing history we propose that the proposal be allocated a budget of **USD 33,000** for its duration to provide a comfortable buffer against expenses and factoring in potential increases in output. We are confident that our past spending rate combined with expense tracking provide good protection against overspending, as we remain committed to safeguarding the value of the Treasury.
 
-We are confident that our past spending is an accurate enough of a guideline to prevent us from going (significantly, but hopefully at all) over budget in 2023. As always, it needs to be stressed that this is a **projected maximum budget** with the actual spending hopefully being much less, as indicated by past performance.
-
-As always **all funds not spent by the proposal will remain in the project Treasury**.
+As always, it needs to be stressed that this is a **projected maximum budget** and **all funds not spent by the proposal will remain in the project Treasury**.
 
 Thank you very much for your time and attention and look forward to a fruitful discussion. As always, all constructive feedback is very welcome and appreciated.
